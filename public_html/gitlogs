@@ -1,0 +1,160 @@
+Script started on Tue 20 Sep 2016 12:07:36 PM EDT
+[mciancarelli35@sabre public_html]$ vi gif[Ktlogfile
+[?1h=[1;24r[m[m[0m[H[J[24;1H"gitlogfile" 1L, 110C[1;1Hecho "Give me six hours to chop a tree and I will spend the first four sharpeninn[2;1Hg the axe. - Abraham Lincoln"
+[1m~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~[0m[24;63H1,1[11CAll[1;1H[24;1H[?1l>[24;1H[K[24;1H[mciancarelli35@sabre public_html]$ git log
+[?1h=commit 36aff61cb35be69ea8c3d01c7d9406711c7b7b22[m
+Author: MCiancarelli520 <mciancarelli520@yahoo.com>[m
+Date:   Tue Sep 20 12:05:06 2016 -0400[m
+[m
+    filea[m
+[m
+commit 31b5d9534d88cb2097c4b4cf8a560ca94eae885e[m
+Author: MCiancarelli520 <mciancarelli520@yahoo.com>[m
+Date:   Fri Sep 16 11:30:26 2016 -0400[m
+[m
+    gitsucks[m
+[K[?1l>[mciancarelli35@sabre public_html]$ git commit git [K [K[K[K[K-m 'gitlogfile'
+# On branch master
+# Changed but not updated:
+#   (use "git add/rm <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	deleted:    filea
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	../.bash_history
+#	../.bash_logout
+#	../.bash_profile
+#	../.bashrc
+#	../.gitconfig
+#	../.mysql_history
+#	../.viminfo
+#	../bin/
+#	../files
+#	../newnote.html
+#	.newnote.html.swp
+#	.phpemail.php.swp
+#	Michael_Ciancarelli_gitlogs
+#	Michael_Ciancarelli_gitscript
+#	dwhitmarsh
+#	gitlogs
+#	header.php
+#	index.php
+#	michaelemail.html
+#	michaelemail.php
+#	old/
+#	page2.php
+#	passwordhash.php
+#	quiz.php
+#	quiz2.php
+no changes added to commit (use "git add" and/or "git commit -a")
+[mciancarelli35@sabre public_html]$ git fi[K[Kdiff
+[?1h=diff --git a/public_html/filea b/public_html/filea[m
+deleted file mode 100644[m
+index 19b11e8..0000000[m
+--- a/public_html/filea[m
++++ /dev/null[m
+@@ -1,2 +0,0 @@[m
+-This is a Line[m
+-Hey, Kool-Aid![m
+[K[?1l>[mciancarelli35@sabre public_html]$ vi[K[Kgitcommi[K[K[K[K [K[K commit 0[K-m "[K'Blueberries'
+# On branch master
+# Changed but not updated:
+#   (use "git add/rm <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	deleted:    filea
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	../.bash_history
+#	../.bash_logout
+#	../.bash_profile
+#	../.bashrc
+#	../.gitconfig
+#	../.mysql_history
+#	../.viminfo
+#	../bin/
+#	../files
+#	../newnote.html
+#	.newnote.html.swp
+#	.phpemail.php.swp
+#	Michael_Ciancarelli_gitlogs
+#	Michael_Ciancarelli_gitscript
+#	dwhitmarsh
+#	gitlogs
+#	header.php
+#	index.php
+#	michaelemail.html
+#	michaelemail.php
+#	old/
+#	page2.php
+#	passwordhash.php
+#	quiz.php
+#	quiz2.php
+no changes added to commit (use "git add" and/or "git commit -a")
+[mciancarelli35@sabre public_html]$ rm filea
+rm: cannot remove `filea': No such file or directory
+[mciancarelli35@sabre public_html]$ git status 
+# On branch master
+# Changed but not updated:
+#   (use "git add/rm <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	deleted:    filea
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	../.bash_history
+#	../.bash_logout
+#	../.bash_profile
+#	../.bashrc
+#	../.gitconfig
+#	../.mysql_history
+#	../.viminfo
+#	../bin/
+#	../files
+#	../newnote.html
+#	.newnote.html.swp
+#	.phpemail.php.swp
+#	Michael_Ciancarelli_gitlogs
+#	Michael_Ciancarelli_gitscript
+#	dwhitmarsh
+#	gitlogs
+#	header.php
+#	index.php
+#	michaelemail.html
+#	michaelemail.php
+#	old/
+#	page2.php
+#	passwordhash.php
+#	quiz.php
+#	quiz2.php
+no changes added to commit (use "git add" and/or "git commit -a")
+[mciancarelli35@sabre public_html]$ stop [K[K[K[K[Kexit
+
+Script done on Tue 20 Sep 2016 12:10:20 PM EDT

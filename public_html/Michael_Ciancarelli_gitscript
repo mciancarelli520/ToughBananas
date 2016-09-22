@@ -1,0 +1,129 @@
+Script started on Tue 20 Sep 2016 12:05:21 PM EDT
+[mciancarelli35@sabre public_html]$ exitgit commit -m 'filea''[K'[K'[K'[K'[Kmit -m 'filea'exit[Kgit log --pretty=format:"%h - %an, %ar : %s" [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccommit gitlogfile [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cvi gitlogfile[Kgit commit gitlogfile nfig --list[Klog --stat[Kls[Kgit log -p -3-p 3p 3[K-3[Kadd gitlogfile log --pretty=format:"%h %s" --graph- %an, %ar : %s" [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cstat[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cstat[Kp -3[Kmv gitfile gitlogfilevi gitfile[Kexit[Kgit statusrm filea[Kgit commit filearm filea[Kgit statusexit[Kvi gitfilemv gitfile gitlogfilegit log[K -p -3stat-statpretty=format:"%h - %an, %ar : %s" [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C%s" --graph[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cadd gitlogfile [Klog[K -p -33[K-p 3p -3ls[Kgit log --statconfig --listmmit gitlogfile vi gitlogfile[Kgit commit gitlogfile vi gitlogfile[Kgit commit gitlogfile log --pretty=format:"%h - %an, %ar : %s" [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit commmit -m 'filea'it -m ''[Kexit[K[Kgit commit -n[Km 'gitlogfile'
+# On branch master
+# Changed but not updated:
+#   (use "git add/rm <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	deleted:    filea
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	../.bash_history
+#	../.bash_logout
+#	../.bash_profile
+#	../.bashrc
+#	../.gitconfig
+#	../.mysql_history
+#	../.viminfo
+#	../bin/
+#	../files
+#	../newnote.html
+#	.newnote.html.swp
+#	.phpemail.php.swp
+#	Michael_Ciancarelli_gitlogs
+#	Michael_Ciancarelli_gitscript
+#	dwhitmarsh
+#	header.php
+#	index.php
+#	michaelemail.html
+#	michaelemail.php
+#	old/
+#	page2.php
+#	passwordhash.php
+#	quiz.php
+#	quiz2.php
+no changes added to commit (use "git add" and/or "git commit -a")
+[mciancarelli35@sabre public_html]$ u[Kgit add logfile[K[K[K[K[K[K[Kgit[K[Kcommit -m 'gitlogfile'file'[Kfile'[Kfile'[K
+# On branch master
+# Changed but not updated:
+#   (use "git add/rm <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	deleted:    filea
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	../.bash_history
+#	../.bash_logout
+#	../.bash_profile
+#	../.bashrc
+#	../.gitconfig
+#	../.mysql_history
+#	../.viminfo
+#	../bin/
+#	../files
+#	../newnote.html
+#	.newnote.html.swp
+#	.phpemail.php.swp
+#	Michael_Ciancarelli_gitlogs
+#	Michael_Ciancarelli_gitscript
+#	dwhitmarsh
+#	header.php
+#	index.php
+#	michaelemail.html
+#	michaelemail.php
+#	old/
+#	page2.php
+#	passwordhash.php
+#	quiz.php
+#	quiz2.php
+no changes added to commit (use "git add" and/or "git commit -a")
+[mciancarelli35@sabre public_html]$ git commit -m 'gitfile'
+# On branch master
+# Changed but not updated:
+#   (use "git add/rm <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	deleted:    filea
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	../.bash_history
+#	../.bash_logout
+#	../.bash_profile
+#	../.bashrc
+#	../.gitconfig
+#	../.mysql_history
+#	../.viminfo
+#	../bin/
+#	../files
+#	../newnote.html
+#	.newnote.html.swp
+#	.phpemail.php.swp
+#	Michael_Ciancarelli_gitlogs
+#	Michael_Ciancarelli_gitscript
+#	dwhitmarsh
+#	header.php
+#	index.php
+#	michaelemail.html
+#	michaelemail.php
+#	old/
+#	page2.php
+#	passwordhash.php
+#	quiz.php
+#	quiz2.php
+no changes added to commit (use "git add" and/or "git commit -a")
+[mciancarelli35@sabre public_html]$ git log
+[?1h=commit 36aff61cb35be69ea8c3d01c7d9406711c7b7b22[m
+Author: MCiancarelli520 <mciancarelli520@yahoo.com>[m
+Date:   Tue Sep 20 12:05:06 2016 -0400[m
+[m
+    filea[m
+[m
+commit 31b5d9534d88cb2097c4b4cf8a560ca94eae885e[m
+Author: MCiancarelli520 <mciancarelli520@yahoo.com>[m
+Date:   Fri Sep 16 11:30:26 2016 -0400[m
+[m
+    gitsucks[m
+[K[?1l>[mciancarelli35@sabre public_html]$ exit
+exit
+
+Script done on Tue 20 Sep 2016 12:06:29 PM EDT

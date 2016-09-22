@@ -1,0 +1,20 @@
+<!DOCTYPE>
+<html>
+<head>
+</head>
+<body>
+
+<form action = 'mciancarelliemail.php' method = 'get'>
+To: <Input type = 'text' name = 'to'><br /><br />
+From: <input type = 'text' name = 'sender_email'><br /><br />
+CC: <input type = 'text' name = 'cc'><br /><br />
+BCC: <input type = 'text' name = 'bcc'><br /><br />
+Subject: <input type = 'text' name = 'subject'><br /><br />
+Message: <input type = 'text' name = 'message'><br /><br />
+<input type = 'submit' name = 'button'>
+</form>
+<hr /> <p><a href='michaelemail.php"> Take me back to the E-Mail form! </a></p>
+</body>
+</html>
+
+<title>

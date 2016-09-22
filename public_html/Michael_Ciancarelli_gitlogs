@@ -1,0 +1,16 @@
+Script started on Tue 20 Sep 2016 12:04:52 PM EDT
+[mciancarelli35@sabre public_html]$ git commmit - [K'[Km 'fileas[K'
+git: 'commmit' is not a git command. See 'git --help'.
+
+Did you mean this?
+	commit
+[mciancarelli35@sabre public_html]$ git commmit -m 'filea'it -m 'filea'[K
+[master 36aff61] filea
+ 3 files changed, 3 insertions(+), 0 deletions(-)
+ rename filea => fileb (100%)
+ create mode 100644 public_html/filea
+ create mode 100644 public_html/gitlogfile
+[mciancarelli35@sabre public_html]$ xit[K[K[Kexit
+exit
+
+Script done on Tue 20 Sep 2016 12:05:13 PM EDT

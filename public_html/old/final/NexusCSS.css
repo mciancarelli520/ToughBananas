@@ -1,0 +1,21 @@
+@charset "utf-8";
+h2 {
+	color: #B07C0A;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: medium;
+}
+h1 {
+	color: #E57B1F;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: x-large;
+	font-variant: small-caps;
+}
+h4 {
+	color: #000000;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: small;
+}
+text {
+	color: #0F0F0F;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
